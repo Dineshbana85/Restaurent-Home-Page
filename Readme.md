@@ -12,4 +12,4 @@ By Dinesh Bana
 
 ![badge](https://img.shields.io/badge/Restaurent%20Home%20Page-HTML%20%26%20CSS-red)
 
-## Project Link: [My Website](https://law-home-webpage.netlify.app/)
+## Project Link: [My Website](https://restaurant-landing-website.netlify.app/)
